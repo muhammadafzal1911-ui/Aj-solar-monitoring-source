@@ -1,0 +1,8 @@
+{
+  "name": "AJ Solar Monitoring",
+  "description": "Mobile-first solar plant, inverter, battery, and fleet telemetry monitoring platform for AJ Solar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
